@@ -1,3 +1,17 @@
+# Obsessed with motor sounds
+
+SOUND OBSESSED is deeply passionate about motor sounds as an artistic expression of lifestyle in the context of hostile urban design. Our project captures the cultural significance of vehicle sounds and sensor data, transforming them into sound art that reflects our emotional attachment to these elements of our past. We gather and manipulate audio from our vehicles, blending technology with art to create meaningful and playful soundscapes. Our aim is to highlight how urban hostility is designed into environments, amplifying the sounds and narratives embedded in this overlooked aspect of our culture.
+
+# Milestones
+
+- v Understanding the PCOArt framework
+- v Define our artwork & societal framework
+- v Activate partner network
+- Create sound artwork at [circuit-control](https://www.circuit-control.de)
+- Connect to [Metaknoten](https://www.metaknoten.net/)
+- Setup safe for council-based stewardship
+
+- 
 # mozzi-noizetoyz
 
 See sample.ino for info to create wavetable data (truck.h)
